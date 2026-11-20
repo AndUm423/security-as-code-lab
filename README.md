@@ -1,6 +1,6 @@
 # Laboratorio individual: Security as Code
 
-**Modalidad:** trabajo individual en casa · **Duración estimada:** 2–3 horas  
+**Modalidad:** trabajo individual en casa · **Duración estimada:** 1–2 horas  
 **Objetivo:** identificar, corregir y automatizar controles de seguridad en un proyecto pequeño usando Gitleaks, Checkov, Trivy y GitHub Actions.
 
 > Este repositorio contiene vulnerabilidades y configuraciones inseguras **intencionales**. No lo despliegues en producción. El token del ejemplo es ficticio y no concede acceso a ningún servicio. Nunca introduzcas credenciales reales.
