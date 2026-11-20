@@ -2,12 +2,6 @@
 
 ## 1. Datos de entrega
 - Nombre:
-- Asignatura / grupo:
-- Repositorio (fork):
-- Rama:
-- Pull Request:
-- Sistema operativo:
-- Versiones de Gitleaks, Checkov, Trivy, Docker y Git:
 
 ## 2. Análisis inicial
 | Herramienta | Archivo/recurso | Hallazgo / regla / CVE | Severidad | Riesgo | Evidencia |
@@ -42,6 +36,3 @@ Incluye o referencia:
 2. ¿Qué riesgos no cubren estos tres escáneres?
 3. ¿Por qué no basta con que el pipeline esté en verde?
 4. ¿Qué control agregarías a un proyecto real y por qué?
-
-## 8. Limitaciones
-Registra problemas de instalación, incompatibilidades o herramientas que no pudiste ejecutar. No inventes resultados.
